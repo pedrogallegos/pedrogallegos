@@ -1,19 +1,44 @@
-👋 ¡Hola! Soy Pedro Gallegos Garcilazo
-💻 Desarrollador en formación | Apasionado por el backend y el desarrollo web
+# 👋 Hola, soy Pedro Gallegos Garcilazo
 
-Actualmente estoy aprendiendo y explorando el mundo del desarrollo web con tecnologías como:
-	•	🟨 JavaScript
-	•	🌐 Node.js + Express.js
-	•	📦 MongoDB + Mongoose
-	•	🎨 Tailwind CSS + CSS puro
+🧑‍💻 *Desarrollador Web en formación*  
+💡 Aprendiendo JavaScript, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS y CSS.
 
-Estoy en una etapa inicial, pero comprometido con mejorar cada día. Me gusta construir cosas desde cero, entender cómo funcionan internamente y aplicar lo que aprendo en proyectos reales.
+---
 
-📁 En mi perfil encontrarás:
-	•	Prácticas y proyectos personales en constante evolución
-	•	Código que refleja mi progreso y mis ganas de seguir creciendo
-	•	Una mentalidad de aprendizaje continuo
+## 🚀 Sobre mí
 
-🔧 Mi objetivo: Convertirme en un desarrollador web sólido, enfocado en crear soluciones eficientes y bien estructuradas.
+Soy un entusiasta del desarrollo web backend con un gran interés por entender cómo funcionan las cosas detrás de escena.  
+Actualmente me encuentro en una etapa de aprendizaje activo, desarrollando proyectos personales y aplicando lo que aprendo día a día.
 
-Estoy abierto a colaborar, aprender de otros desarrolladores y aportar lo que voy aprendiendo. ¡Gracias por visitar mi perfil!
+---
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+- 🟨 JavaScript  
+- 🌐 Node.js & Express.js  
+- 📦 MongoDB & Mongoose  
+- 🎨 Tailwind CSS & CSS  
+
+---
+
+## 🎯 Objetivos actuales
+
+- ✅ Consolidar mis conocimientos de backend con Node.js  
+- 🔄 Crear y subir proyectos reales en este repositorio  
+- 🌱 Mejorar en el diseño y estructura de bases de datos  
+- 🤝 Colaborar con otros desarrolladores en proyectos open source  
+
+---
+
+## 📫 Cómo contactarme
+
+- ✉️ Email: [pedrogallegos543@gmail.com]  
+- 💼 LinkedIn: [www.linkedin.com/in/pedro-gallegos-garcilazo-9a58311a7)  
+- 🌐 Portafolio: *En desarrollo...*
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Asegúrate de reemplazar "pedro-gallegos" con tu nombre de usuario real de GitHub -->
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogallegos&show_icons=true&theme=radical)

@@ -1,5 +1,5 @@
 <div>
-<h1 align= "center"># 👋 Pedro Gallegos Garcilazo</h1>
+<h1 align= "center">👋 Pedro Gallegos Garcilazo</h1>
 </div>
 🧑‍💻 *Desarrollador Web en formación*  
 💡 Aprendiendo JavaScript, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS y CSS.

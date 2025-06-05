@@ -63,3 +63,8 @@ I'm currently learning by building personal projects and applying new knowledge 
 ## 📊 GitHub Stats
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogallegos&show_icons=true&theme=radical)
+
+
+## 📊 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogallegos&layout=compact&theme=radical)

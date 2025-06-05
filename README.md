@@ -60,11 +60,12 @@ I'm currently learning by building personal projects and applying new knowledge 
 
 ---
 
-## 📊 GitHub Stats and my programming languages
+
+
+## 📊 GitHub Stats
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogallegos&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogallegos&layout=compact&theme=radical)
 
-
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrogallegos&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
